@@ -1,5 +1,7 @@
 # Solitary-Peg
-## Description
+</br>
+<img src="https://imgur.com/gvKNtCD.png"></img>
+
 A medieval styled 2D video game in the Chess board game genre.
 Built using C and C++, utilizing the `graphics.h`  library for the GUI.
 
